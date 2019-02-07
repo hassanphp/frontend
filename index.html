@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+    <title>Chatorilla
+    </title>
+    <!-- CSS  -->
+    <!--link href="https://fonts.googleapis.com/icon?family=Material+Icons+Lato" rel="stylesheet"-->
+    <link href="css/fonts.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link href="css/chatorilla.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link type='text/css' href='http://fonts.googleapis.com/css?family=Lato:400,700' />
+  </head>
+  <body class="Site index-bgk">
+    <main class="Site-content">
+      <nav class="transparent no-shadow" role="navigation">
+        <div class="nav-wrapper">
+          <!-- svg -->
+          <ul class="right hide-on-med-and-down" style="">
+            <li class="right-align">
+              <a href="#" class="Login-text">
+                <img src="img/login-icon.svg" class="img-valign" alt=""/>
+                <span>Login
+                </span>
+              </a>
+            </li>
+          </ul>
+          <ul id="nav-mobile" class="sidenav" >
+            <li>
+              <a href="#" class="Login-text">Login
+              </a>
+            </li>
+          </ul>
+          <a href="#" data-target="nav-mobile" class="sidenav-trigger Login-text">
+            <i class="material-icons Login-text">Menu
+            </i>
+          </a>
+        </div>
+      </nav>
+      <div class="section no-pad-bot" id="index-banner">
+        <div class="container">
+          <div class="row center">
+            <img src="img/logo.svg"
+                 class="logo">
+          </div>
+        </div>
+      </div>
+      <div class="container center-content">
+        <div class="center-content">
+          <!--   Icon Section   -->
+          <div class="row center-content">
+            <div class="col s12 m12 center-content">
+              <div class="Welcome-to-the-futur center-content">Welcome to the future
+                of chatting
+                <div style="padding-top: 20px;" > 
+                  <span class="Select-Your-Gender center-content" >Select Your Gender
+                  </span>
+                </div>
+                <div class="row" style="margin-top: 40px; " >
+                  <div class="col s12 m12 center-content"> 
+                    <div class="container center-content">
+                      <div class="row center-content">
+                        <div class="col s6 m6 center-content"  >
+                          <!-- Male Button Start -->
+                          <button id="btn1" onClick="enableButtonMale()"  class="Rectangle-male btn" style="margin-left: 15px;" >
+                            <img id="male_img" src="img/gender-male.svg"
+                                 class="gender_male">
+                          </button> 
+                          <p class="Male">Male
+                          </p>
+                          <!-- Male Button Start -->
+                        </div>
+                        <div class="col s5 m5 center-content"  >
+                          <!-- Female Button Start -->
+                          <button id="btn2" onClick="enableButtonFemale()" class="Rectangle-female btn" style="margin-right: 2px;" >
+                            <img id="female_img" src="img/female.svg"
+                                 class="gender_female">
+                          </button>
+                          <!-- Female Button End -->
+                          <p class="Female">Female
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="toggle-content slide-top" id="start_button" >
+                  <div class="center-content"  >
+                    <input type="submit"  class="Rectangle-button-login"  id="sub1"  value="START" >
+                  </div>
+                  <div class="I-acknowledge-that-I center-content">
+                    <p style="text-align: left; text-align: left !important;" >
+                      <label class="I-acknowledge-that-I">
+                        <input type="checkbox" id="termsChkbx" class="filled-in" onclick="change_button(this,'sub1')" checked/>
+                        <span style="padding-left: 24px;" class="I-acknowledge-that-I">
+                          I acknowledge that I have read and agreed to Chatorilla Inspection Terms of Use and Privacy Policy.
+                        </span>
+                      </label> 
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <br>
+        <br>
+        <div class="preloader-background">
+          <div class="preloader-wrapper big active">
+            <div class="spinner-layer spinner-blue-only">
+              <div class="circle-clipper left">
+                <div class="circle">
+                </div>
+              </div>
+              <div class="gap-patch">
+                <div class="circle">
+                </div>
+              </div>
+              <div class="circle-clipper right">
+                <div class="circle">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+    <footer class="page-footer transparent center">
+      <div class="container">
+        <img src="img/footer.png" width="500px"  alt=""/> 
+      </div>
+    </footer>
+    <!--  Scripts-->
+    <script src='js/2.1.3-jquery.min.js'>
+    </script>
+    <script src="js/materialize-1.0.0.js">
+    </script>
+    <script src="js/init.js">
+    </script>
+  </body>
+</html>
