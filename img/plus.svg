@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="interest-Screen" transform="translate(-545.000000, -338.000000)" fill="#B5B5B8">
+            <g id="Group-4" transform="translate(135.000000, 329.000000)">
+                <path d="M420,9 C414.48,9 410,13.48 410,19 C410,24.52 414.48,29 420,29 C425.52,29 430,24.52 430,19 C430,13.48 425.52,9 420,9 L420,9 Z M425,20 L421,20 L421,24 L419,24 L419,20 L415,20 L415,18 L419,18 L419,14 L421,14 L421,18 L425,18 L425,20 L425,20 Z" id="Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

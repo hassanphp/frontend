@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="34px" viewBox="0 0 43 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>switch_mode</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="26" cy="10" r="10"></circle>
+        <filter x="-52.5%" y="-52.5%" width="205.0%" height="205.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.203691123 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="interest-Screen" transform="translate(-24.000000, -782.000000)" fill-rule="nonzero">
+            <g id="switch_mode" transform="translate(24.000000, 789.000000)">
+                <rect id="Rectangle-4" fill="#DBE7FF" x="0" y="3" width="36" height="14" rx="7"></rect>
+                <g id="Oval">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#4D7CFE" xlink:href="#path-1"></use>
+                </g>
+                <g id="tick" transform="translate(22.000000, 7.000000)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.5">
+                    <path d="M7.86364623,0.116878611 C7.70782367,-0.0389595369 7.45519068,-0.0389595369 7.29933694,0.116878611 L2.51876251,4.89749981 L0.681187902,3.0599252 C0.525365341,2.90408706 0.272732345,2.90410264 0.116878611,3.0599252 C-0.0389595369,3.21574776 -0.0389595369,3.46838076 0.116878611,3.62421891 L2.23660786,5.74391698 C2.39238366,5.89973954 2.6452037,5.89963044 2.80091715,5.74391698 L7.86364623,0.681187902 C8.01948438,0.525365341 8.01946879,0.272716758 7.86364623,0.116878611 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

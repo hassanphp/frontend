@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="188px" height="26px" viewBox="0 0 188 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>shortcut_keys</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="1" width="21" height="21" rx="2"></rect>
+        <filter x="-14.3%" y="-14.3%" width="128.6%" height="128.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0733129529 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="93" y="0" width="43" height="22" rx="3"></rect>
+        <filter x="-7.0%" y="-13.6%" width="114.0%" height="127.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0733129529 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="interest-Screen" transform="translate(-95.000000, -787.000000)">
+            <g id="shortcut_keys" transform="translate(97.000000, 789.000000)">
+                <text id="Previous" font-family="Lato-Bold, Lato" font-size="12" font-weight="bold" fill="#363840">
+                    <tspan x="29" y="16">Previous</tspan>
+                </text>
+                <text id="Confirm" font-family="Lato-Bold, Lato" font-size="12" font-weight="bold" fill="#363840">
+                    <tspan x="142" y="16">Confirm</tspan>
+                </text>
+                <g id="Rectangle-7" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <rect stroke="#DFE1EB" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="1.5" width="20" height="20" rx="2"></rect>
+                </g>
+                <g id="Rectangle-7-Copy" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <rect stroke="#DFE1EB" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="93.5" y="0.5" width="42" height="21" rx="3"></rect>
+                </g>
+                <text id="Space" font-family="Lato-Bold, Lato" font-size="9" font-weight="bold" fill="#A2A4B6">
+                    <tspan x="101" y="15">Space</tspan>
+                </text>
+                <polygon id="Icon" fill="#9FA2B4" transform="translate(11.000000, 11.545455) scale(-1, 1) translate(-11.000000, -11.545455) " points="9 9 9 14.0909091 13 11.5454545"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

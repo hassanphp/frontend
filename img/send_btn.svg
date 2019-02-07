@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="78px" viewBox="0 0 78 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>send_btn</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="25" cy="25" r="25"></circle>
+        <filter x="-42.0%" y="-42.0%" width="184.0%" height="184.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.17578125 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="text-Chat" transform="translate(-1358.000000, -714.000000)">
+            <g id="text-Area" transform="translate(469.000000, 728.000000)">
+                <g id="send_btn" transform="translate(903.000000, 0.000000)">
+                    <g id="Oval-9">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#4D7CFE" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <path d="M19.4157765,17.1030511 C18.7525268,16.7610408 18,17.312132 18,18.1400157 L18,21.5426636 C18,22.2619787 18.4473982,22.8811651 19.0682877,23.0208081 L23.709179,24.0652536 C24.3007032,24.198183 24.3007032,25.1595716 23.709179,25.2926928 L19.0682877,26.3371383 C18.4473982,26.4767813 18,27.0957759 18,27.8152828 L18,31.2177389 C18,32.0456226 18.7525268,32.5969056 19.4157765,32.2547035 L32.0963341,25.7160337 C32.8802513,25.3116827 32.8802513,24.0460719 32.0963341,23.6419127 L19.4157765,17.1030511 Z" id="Fill-1" fill="#FFFFFF" transform="translate(25.342136, 24.678915) rotate(-40.000000) translate(-25.342136, -24.678915) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

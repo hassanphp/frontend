@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="44px" viewBox="0 0 65 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-Dashboard" transform="translate(-1006.000000, -256.000000)" fill="#FF687B">
+            <g id="video-chat" transform="translate(881.000000, 209.000000)">
+                <path d="M175.555556,50.6111111 C175.555556,48.625 173.930556,47 171.944444,47 L128.611111,47 C126.625,47 125,48.625 125,50.6111111 L125,86.7222222 C125,88.7083333 126.625,90.3333333 128.611111,90.3333333 L171.944444,90.3333333 C173.930556,90.3333333 175.555556,88.7083333 175.555556,86.7222222 L175.555556,74.0833333 L190,88.5277778 L190,48.8055556 L175.555556,63.25 L175.555556,50.6111111 Z" id="Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

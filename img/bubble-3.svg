@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="283" height="35" viewBox="0 0 283 35">
+    <g fill="none" fill-rule="evenodd" opacity=".6">
+        <g>
+            <rect width="283" height="35" fill="#3CB919" fill-rule="nonzero" opacity=".8" rx="17.5"/>
+            <text fill="#FFF" font-family="SFProDisplay-Regular, SF Pro Display" font-size="16">
+                <tspan x="47" y="23">Haha buddy! you are so nice!</tspan>
+            </text>
+            <text fill="#FFF" font-family="AppleColorEmoji, Apple Color Emoji" font-size="16">
+                <tspan x="247" y="25">👍</tspan>
+            </text>
+        </g>
+        <path stroke="#F7F7F9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25" d="M16.902 28l2.938-1.864c.993.29 2.056.448 3.16.448 5.523 0 10-3.936 10-8.792S28.523 9 23 9c-.744 0-1.468.071-2.166.207-1.965.381-3.713 1.27-5.056 2.504a9.104 9.104 0 0 0-1.22 1.366C13.572 14.439 13 16.057 13 17.792c0 2.624 1.307 4.98 3.38 6.59"/>
+    </g>
+</svg>
